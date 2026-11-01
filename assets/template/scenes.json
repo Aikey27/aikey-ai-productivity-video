@@ -1,0 +1,47 @@
+{
+  "title": "本周推荐 Skill",
+  "accent": "#33E6D4",
+  "scenes": [
+    {
+      "kicker": "教程创作者的真实痛点",
+      "headline": "最费时间的\n不是讲原理",
+      "body": "是把每一步操作录清楚",
+      "start": 0,
+      "end": 4.6,
+      "kind": "hook"
+    },
+    {
+      "kicker": "本周推荐",
+      "headline": "screen-recording",
+      "body": "让 AI 自动制作操作演示",
+      "start": 4.6,
+      "end": 9.2,
+      "kind": "skill"
+    },
+    {
+      "kicker": "完整流程",
+      "headline": "打开网页 → 点击 → 截图",
+      "body": "控制停留时间 · 加箭头和文字 · 合成 GIF",
+      "start": 9.2,
+      "end": 16.7,
+      "kind": "steps"
+    },
+    {
+      "kicker": "适用场景",
+      "headline": "软件教程\n产品更新\nBug 复现",
+      "body": "把操作过程讲清楚",
+      "start": 16.7,
+      "end": 20.9,
+      "kind": "uses"
+    },
+    {
+      "kicker": "使用边界",
+      "headline": "自动演示 ≠ 自动验收",
+      "body": "实测跑通，要保留连续操作、真实输入和真实输出",
+      "start": 20.9,
+      "end": 26.9,
+      "kind": "boundary"
+    }
+  ]
+}
+

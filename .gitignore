@@ -1,0 +1,9 @@
+.env
+node_modules/
+*.mp3
+*.wav
+*.mp4
+__pycache__/
+.DS_Store
+aikey-video-workspace-*/
+
